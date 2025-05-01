@@ -1,2 +1,8 @@
 # Students-Info
 Students-Info project built using Node.js, Express, and MySQL2. It is designed to manage and store student information efficiently
+
+
+This system helps store all the student details like name, email, password and more in one place.
+
+Admins can add, view, update, and delete student records using APIs. The system is secure, fast, and easy to use. It replaces manual systems like Excel sheets or notebooks with a digital and well-structured database.
+
