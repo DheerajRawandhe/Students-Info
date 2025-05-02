@@ -13,7 +13,7 @@ Backend: Node.js + Express.js
 Database: MySQL (with mysql2 Node package)
 Tools: Postman for API testing
 
-## Main Features:
+## Main Features :-
 ✅ Add new student
 📋 Get all students
 📝 Update student details
