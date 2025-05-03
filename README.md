@@ -7,6 +7,7 @@ This system helps store all the student details like name, email, password and m
 Admins can add, view, update, and delete student records using APIs. The system is secure, fast, and easy to use. It replaces manual systems like Excel sheets or notebooks with a digital and well-structured database.
 
 This project follows RESTful API structure, and all data is stored in a MySQL database using the mysql2 package.
+
 Tech Stack :-
 Backend: Node.js + Express.js
 Database: MySQL (with mysql2 Node package)
