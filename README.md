@@ -8,7 +8,7 @@ Admins can add, view, update, and delete student records using APIs. The system 
 
 This project follows RESTful API structure, and all data is stored in a MySQL database using the mysql2 package.
 
-Tech Stack :-
+Tech Stack :
 Backend: Node.js + Express.js
 Database: MySQL (with mysql2 Node package)
 Tools: Postman for API testing
