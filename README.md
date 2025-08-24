@@ -16,4 +16,4 @@ Tools: Postman for API testing
 📋 Get all students
 📝 Update student details
 ❌ Delete student
-📂 Store data in MySQL database
+📂 Store data in MySQL databas
