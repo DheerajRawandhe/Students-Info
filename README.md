@@ -12,7 +12,7 @@ Database: MySQL (with mysql2 Node package)
 Tools: Postman for API testing
 
 ## Main Features :-
-✅ Add new student
+- ✅ Add new student
 📋 Get all students
 📝 Update student details
 ❌ Delete student
